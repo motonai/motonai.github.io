@@ -12,3 +12,7 @@ body {
     color: #0f0;
     max-width: 678px;
 }
+
+.invisible {
+    color: #000;
+}
